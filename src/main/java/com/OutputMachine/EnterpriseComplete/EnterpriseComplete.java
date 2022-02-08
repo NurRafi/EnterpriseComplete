@@ -1,0 +1,13 @@
+package com.OutputMachine.EnterpriseComplete;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EnterpriseComplete {
+
+    public static void main(String[] args) {
+        SpringApplication.run(EnterpriseComplete.class, args);
+    }
+
+}
